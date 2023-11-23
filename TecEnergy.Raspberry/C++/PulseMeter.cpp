@@ -16,7 +16,7 @@
 bool first_pulse_detected = false;
 
 // File path to the log file
-const std::string log_file_path = "/home/tec/Documents/C++/PulseLog.json";
+const std::string log_file_path = "/home/tec/Documents/TecEnergy/TecEnergy.Raspberry/C++/PulseLog.Json";
 
 // Read existing data or create a new file
 std::vector<std::map<std::string, std::string>> pulse_log;
